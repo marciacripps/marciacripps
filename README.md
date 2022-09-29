@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/marciac95_" target="blank"><img src="https://img.shields.io/twitter/follow/marciac95_?logo=twitter&style=for-the-badge" alt="marciac95_" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](marciacripps.netlify.app)
+- 🔭 I’m currently working on [My Portfolio](https://marciacripps.netlify.app/)
 
 - 🌱 I’m currently learning **JavaScript, Python, MySQL and Swift**
 
