@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://marciacripps.netlify.app/)
 
-- 🌱 I’m currently learning **JavaScript, Python, MySQL and Swift**
+- 🌱 I’m currently learning **JavaScript, Python, PostGreSQL, Flask, and Swift**
 
 - 🤝 I’m looking for help with **Angular**
 
