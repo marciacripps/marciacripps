@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://marciacripps.netlify.app/](https://marciacripps.netlify.app/)
 
-- 💬 Ask me about **HTML CSS JavaScript**
+- 💬 Ask me about ** Python SQL Pandas HTML CSS JavaScript**
 
 - 📫 How to reach me **marciacripps@gmail.com**
 
