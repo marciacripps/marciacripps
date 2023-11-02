@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://marciacripps.netlify.app/)
 
-- 🌱 I’m currently learning **JavaScript, Python, PostGreSQL, Flask, and Swift**
+- 🌱 I’m currently learning **JavaScript, Python, PostGreSQL, Flask, and Django**
 
-- 🤝 I’m looking for help with **Angular**
+- 🤝 I’m looking for help with **Django**
 
 - 👨‍💻 All of my projects are available at [https://marciacripps.netlify.app/](https://marciacripps.netlify.app/)
 
